@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Lexend:wght@100..900&display=swap');
+
+*{
+    font-family: Inter Tight, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    
+}
+.main{
+    border: 2px solid;
+    padding: 50px;
+    width: 700px;
+}
